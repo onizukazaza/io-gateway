@@ -1,0 +1,95 @@
+.page-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 2% 5%;
+}
+
+.card-sidebar {
+    width: 320px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    padding: 20px 25px;
+    box-sizing: border-box;
+    position: fixed; 
+    right: 0; 
+    top: 20%; 
+}
+
+.card-sidebar h2 {
+    font-size: 22px;
+    color: #2d3748;
+    margin-bottom: 16px;
+    font-weight: 600;
+    
+}
+
+.card-sidebar p {
+    font-size: 16px;
+    color: #4a5568;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.card-sidebar span {
+    color: #2c5282;
+    font-weight: bold;
+}
+
+.container {
+    flex: 1;
+    max-width: 65%; 
+
+
+
+.custom-table {
+        border-collapse: collapse;
+        width: 100%;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    .custom-table th,
+    .custom-table td {
+        padding: 12px 15px;
+    }
+
+    .custom-table thead {
+        background-color: #4da2e6;
+        color: white;
+    }
+
+    .custom-table thead th {
+        font-weight: bold;
+    }
+
+    .custom-table tbody tr {
+background-color: #ffffff;
+}
+
+    .custom-table tbody tr:hover {
+        background-color: #ddd;
+        cursor: pointer;
+    }
+
+    .custom-table th,
+.custom-table td {
+padding: 12px 15px;
+vertical-align: middle;
+text-align: center;
+}
+
+
+.custom-table th:first-child,
+.custom-table td:first-child {
+text-align: left;
+}
+
+.delete-button-wrapper {
+position: absolute;
+bottom: 20px;
+right: 20px;
+}
+}

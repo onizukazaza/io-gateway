@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+body {
+    background-color: #e9f2fc;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.ground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 100px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+    position: relative;
+}
+
+.btn-primary {
+    background-color: #0066cc;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.mb-3 label {
+    margin-bottom: 0.6rem; 
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin: 20px 0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-container {
+    position: absolute;
+    top: -85px;
+    left: 50%;
+    transform: translateX(-50%); 
+    z-index: 10; 
+}
+
+.logo {
+    width: 180px;
+    height: auto;
+    padding: 10px 42px;
+}
+
+.action-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.already-member {
+    margin: 0; 
+}
+
+.member-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.member-info p,
+.member-info a {
+    margin: 10px 0; 
+}
+
+.member-info a {
+    color: #0066cc;
+    font-size: 15px;
+}
+
+.member-info a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.action-link {
+    color: #0066cc;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+    text-decoration: none; 
+}
+
+.action-link {
+    color: #0066cc;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out; 
+}
+
+.action-link:hover {
+    color: #0056b3; 
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+    transform: translateY(-2px); 
+}
+
+.action-container p {
+    margin: 0; 
+    transition: all 0.3s ease-in-out; 
+}

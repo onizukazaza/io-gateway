@@ -1,0 +1,22 @@
+.bigbox{
+height: auto;
+display: flex;
+justify-content:space-between;
+width: 100%;
+padding-bottom:15px;
+margin-bottom: 15px;
+}
+.box1{
+    height: 300px;
+    padding-right: 105px;
+    width: 55%;
+
+   
+}
+.box2{
+    height: 300px;
+    padding-left: 15px;
+    width: 45%;
+
+}
+
