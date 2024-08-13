@@ -3,9 +3,10 @@
   <br>IO-GATEWAY
 </h1>
 
-![เมื่ออุปกรณ์ไมโครคอนโทรเลอร์เชื่อมต่อเว็บไซต์สำเร็จ (อุปกรณ์คู่)](https://github.com/user-attachments/assets/0b70c4fa-7699-4b90-aab5-c6121d5a6d87)
+<img src="https://github.com/user-attachments/assets/0b70c4fa-7699-4b90-aab5-c6121d5a6d87" alt="เมื่ออุปกรณ์ไมโครคอนโทรเลอร์เชื่อมต่อเว็บไซต์สำเร็จ (อุปกรณ์คู่)" width="300"/>
 
-Propose an IoT project that has the ability to communicate data between a microcontroller board to a microcontroller board with a web application server as a Gateway. พพพ
+Propose an IoT project that has the ability to communicate data between a microcontroller board to a microcontroller board with a web application server as a Gateway.
+
 
 
 
