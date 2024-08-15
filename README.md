@@ -31,7 +31,7 @@
 
 
 
-| ![Image1](https://link_to_image1) | ![Image2](https://link_to_image2) | ![Image3](https://link_to_image3) |
+| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |
 |-----------------------------------|-----------------------------------|-----------------------------------|
-| ![Image4](https://link_to_image4) | ![Image5](https://link_to_image5) | ![Image6](https://link_to_image6) |
+| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |
 
