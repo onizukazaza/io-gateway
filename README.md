@@ -30,20 +30,8 @@
 
 
 
-| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
-|-----------------------------------|-----------------------------------|-----------------------------------|
+| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>creating device names and selecting board types |![หลังสร้างพินอุปกรณ์เสร็จสร้างจะแสดงข้อความ](https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147) <br>Device pairing 
+|-----------------------------------|-----------------------------------|
 | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
-  </tr>
-</table>
 
