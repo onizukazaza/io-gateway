@@ -41,7 +41,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
       <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" style="width: 100%; max-width: 500px; border: 1px solid #ddd;"/>
-      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Device pairing</p>
+      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Select pins for the device and define their type, specifying whether each pin should be set as an input or output.</p>
     </td>
   </tr>
   <tr>
