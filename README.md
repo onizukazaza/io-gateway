@@ -7,12 +7,15 @@
   <img src="https://github.com/user-attachments/assets/cb8a947b-8ce8-40bd-9827-9ee32c7c0fda" alt="io_logo" width="100"/>  
   <br>IO-GATEWAY
 </h1>
-<div style="border-left: 4px solid blue; padding-left: 10px;">
-  <h3>Archive notice</h3>
-  <span style="font-size: 20px;">Propose an IoT project that has the ability to communicate data between a microcontroller board to a microcontroller board with a web application server as a Gateway.</span>
-
+<div style="border-left: 4px solid blue; padding-left: 10px; margin-bottom: 20px;">
+  <h3>Archive Notice</h3>
+  <p style="font-size: 18px; line-height: 1.6;">
+    Currently, there are few platforms providing IoT services, and those available have limitations on connecting devices to the web, which is crucial for IoT system functionality. This limitation prevents users from fully utilizing the system due to constraints imposed by the service providers. To use an IoT web platform without these limitations, one often needs to pay for the service. To address these issues, the development team has conceptualized a platform named "IO Gateway" to help solve these problems. The technologies used in its development include PHP, HTML, C/C++, and SQL, with tools such as VS Code and MySQL database.
+  </p>
+  <p style="font-size: 20px; font-weight: bold;">
+    Propose an IoT project that has the ability to communicate data between a microcontroller board and another microcontroller board with a web application server as a Gateway.
+  </p>
 </div>
-<br>
 <div style="border-left: 4px solid blue; padding-left: 10px; margin-top: 20px;">
   <h2>Configuration</h2>
   <ul>
@@ -24,9 +27,9 @@
     <li>User manual</li>
   </ul>
 </div>
-<h2>💻 Quick start</h2>
+<h2>🚀 Quick start</h2>
 <h3>Web Server IO-GATEWAY</h3>
-<p>To start, you will need an ESP8266 or ESP32 board first. Then, follow the steps outlined. After that, compile the code in the Arduino IDE to send data to the IO-GATEWAY web server of this project.</p>
+<p>Before starting, you need to register to prevent any confusion with connecting devices. Next, we will outline the usage steps, beginning with creating device names and adding the pins of the devices you want to use. This will lead to pairing between Microcontroller Device 1 and Microcontroller Device 2. Once paired, these devices will be able to send and receive data from each other.</p>
 <ul>
   <!-- List items go here -->
 </ul>
