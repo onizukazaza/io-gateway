@@ -24,7 +24,7 @@
     <li>User manual</li>
   </ul>
 </div>
- <h2>Quick start</h2>
+ <h2>💻 Quick start</h2>
  To start, you will need an ESP8266 or ESP32 board first. Then, follow the steps outlined. After that, compile the code in the Arduino IDE to send data to the IO-GATEWAY web server of this project.
   <ul>
 
