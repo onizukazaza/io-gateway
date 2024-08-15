@@ -1,6 +1,9 @@
 <p align="right">
   <img src="https://img.shields.io/badge/PHP-v7.4-777BB4"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-v1.8.13-00979D"/>
+  ![Build Status](https://img.shields.io/github/workflow/status/user/repo/CI)
+![License](https://img.shields.io/github/license/user/repo)
+
 </p>
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/cb8a947b-8ce8-40bd-9827-9ee32c7c0fda" alt="io_logo" width="100"/>  
