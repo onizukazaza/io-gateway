@@ -30,8 +30,6 @@
 
 
 
-
-| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |
+| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
 |-----------------------------------|-----------------------------------|-----------------------------------|
-| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) |
-
+| ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
