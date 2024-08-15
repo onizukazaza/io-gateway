@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://php.net/images/logos/php-logo.svg" alt="PHP Logo" style="height: 40px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/PHP-v7.4-777BB4" alt="PHP Version" style="vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.arduino.cc/en/uploads/Branding/Arduino_Logo_2019.png" alt="Arduino Logo" style="height: 40px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-v1.8.13-00979D" alt="Arduino IDE Version" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/PHP-v7.4-777BB4"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-v1.8.13-00979D"/>
 </p>
-
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/cb8a947b-8ce8-40bd-9827-9ee32c7c0fda" alt="io_logo" width="100"/>  
   <br>IO-GATEWAY
