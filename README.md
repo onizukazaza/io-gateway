@@ -10,7 +10,7 @@
 <div style="border-left: 4px solid blue; padding-left: 10px; margin-bottom: 20px;">
   <h3>Archive Notice</h3>
   <p style="font-size: 18px; line-height: 1.6;">
-    Currently, there are few platforms providing IoT services, and those available have limitations on connecting devices to the web, which is crucial for IoT system functionality. This limitation prevents users from fully utilizing the system due to constraints imposed by the service providers. To use an IoT web platform without these limitations, one often needs to pay for the service. To address these issues, the development team has conceptualized a platform named "IO Gateway" to help solve these problems. The technologies used in its development include PHP, HTML, C/C++, and SQL, with tools such as VS Code and MySQL database.
+    Currently, there are few platforms providing IoT services, and those available have limitations on connecting devices to the web, which is crucial for IoT system functionality. This limitation prevents users from fully utilizing the system due to constraints imposed by the service providers. To use an IoT web platform without these limitations, one often needs to pay for the service. To address these issues, the development team has conceptualized a platform named "IO Gateway" to help solve these problems. The technologies used in its development include PHP, C/C++, and SQL, with tools such as VS Code and MySQL database.
   </p>
   <p style="font-size: 20px; font-weight: bold;">
     Propose an IoT project that has the ability to communicate data between a microcontroller board and another microcontroller board with a web application server as a Gateway.
@@ -36,31 +36,32 @@
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; color: #333;">
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 100%; max-width: 500px; border: 1px solid #ddd;"/>
-      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Creating device names and selecting board types</p>
+      <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
+      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Initially, before using the IoT platform website, create a device name using the form. Creating device names and selecting board types.</p>
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" style="width: 100%; max-width: 500px; border: 1px solid #ddd;"/>
+      <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
       <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Select pins for the device and define their type, specifying whether each pin should be set as an input or output.</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/bd98f143-a5ce-4b29-96ac-19969bd03321" style="width: 100%; max-width: 500px; border: 1px solid #ddd;"/>
+      <img src="https://github.com/user-attachments/assets/bd98f143-a5ce-4b29-96ac-19969bd03321" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
       <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Microcontroller device management</p>
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/2612b654-e7ab-48fe-9f9b-2afadd00492c" style="width: 100%; max-width: 500px; border: 1px solid #ddd;"/>
+      <img src="https://github.com/user-attachments/assets/2612b654-e7ab-48fe-9f9b-2afadd00492c" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
       <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Displaying the added pins and device information</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/53a3e36f-f6b1-488d-8140-169165ad3f85" style="width: 100%; max-width: 1000px; border: 1px solid #ddd;"/>
+      <img src="https://github.com/user-attachments/assets/53a3e36f-f6b1-488d-8140-169165ad3f85" style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd;"/>
       <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Displaying the added pins and device information</p>
     </td>
   </tr>
 </table>
+
 
 <h3>Arduino IDE</h3>
 <p>To start, you will need an ESP8266 or ESP32 board first. Then, follow the steps outlined. After that, compile the code in the Arduino IDE to send data to the IO-GATEWAY web server of this project.</p>
