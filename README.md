@@ -6,15 +6,16 @@
 <div style="border-left: 4px solid blue; padding-left: 10px;">
   <span style="font-size: 20px;">Propose an IoT project that has the ability to communicate data between a microcontroller board to a microcontroller board with a web application server as a Gateway.</span>
 </div>
-
 <br>
-
 <div style="border-left: 4px solid blue; padding-left: 10px; margin-top: 20px;">
   <h2>Configuration</h2>
   <ul>
-    <li>Sub-topic 1</li>
-    <li>Sub-topic 2</li>
-    <li>Sub-topic 3</li>
+    <li>Esp8266</li>
+    <li>Webserver</li>
+    <li>Input and Output devices</li>
+    <li>Dashboard</li>
+    <li>HTTP Requests</li>
+    <li>User manual</li>
   </ul>
 </div>
 
