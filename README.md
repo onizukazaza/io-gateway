@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/PHP-v7.4-777BB4"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-v1.8.13-00979D"/>
 </p>
