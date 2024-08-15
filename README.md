@@ -34,4 +34,17 @@
 | <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br>Microcontroller device management | <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br> displaying the added pins and device information |
 
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:1000px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:1000px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:1000px; border: 1px solid #ddd;"/></td>
+  </tr>
+</table>
+
 
