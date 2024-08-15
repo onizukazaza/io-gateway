@@ -29,9 +29,9 @@
   <ul>
 
 
-| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br>creating device names and selecting board types | <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" width="200"/> <br>Device pairing |
+| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br>creating device names and selecting board types | <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" width="200"/> <br><br>Device pairing |
 |-----------------------------------|-----------------------------------|
-| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br>Microcontroller device management | <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br> displaying the added pins and device information |
+| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br>Microcontroller device management | <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br> displaying the added pins and device information |
 
 
 
