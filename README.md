@@ -33,3 +33,17 @@
 | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
 |-----------------------------------|-----------------------------------|-----------------------------------|
 | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย | ![สร้างอุปกรณ์ไมโครคอนโทรลเลอร์](https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db) <br>คำบรรยาย |
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:150px; border: 1px solid #ddd;"/></td>
+  </tr>
+</table>
+
