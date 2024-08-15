@@ -29,20 +29,30 @@
   <ul>
 
 
-| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br>creating device names and selecting board types | <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" width="200"/> <br><br>Device pairing |
-|-----------------------------------|-----------------------------------|
-| <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br>Microcontroller device management | <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" width="200"/> <br><br> displaying the added pins and device information |
 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/></td>
+<td style="text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width: 1000px; border: 1px solid #ddd;"/>
+  <p>Creating device names and selecting board types</p>
+</td>
+    <td style="text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/ac3f573f-2580-46e7-b532-578b5c39e147" style="width: 1000px; border: 1px solid #ddd;"/>
+  <p>Device pairing</p>
+</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:1000px; border: 1px solid #ddd;"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cba7e9e6-635e-4146-ac4d-7694ddd668db" style="width:1000px; border: 1px solid #ddd;"/></td>
+    <td style="text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/bd98f143-a5ce-4b29-96ac-19969bd03321" style="width: 1000px; border: 1px solid #ddd;"/>
+  <p>Microcontroller device management</p>
+</td>
+    <td style="text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/2612b654-e7ab-48fe-9f9b-2afadd00492c" style="width: 1000px; border: 1px solid #ddd;"/>
+  <p>displaying the added pins and device information</p>
+</td>
   </tr>
 </table>
+
 
 
