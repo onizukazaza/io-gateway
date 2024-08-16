@@ -64,6 +64,37 @@
 
 <h3>Arduino IDE</h3>
 <p>To start, you will need an ESP8266 or ESP32 board first. Then, follow the steps outlined. After that, compile the code in the Arduino IDE to send data to the IO-GATEWAY web server of this project.</p>
+<ul>
+  <!-- List items go here -->
+</ul>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; color: #333;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/30c6f6da-3c5a-4bdc-aadd-124341d761f0" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
+      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">Here is a sample code that is stored in Device 1, which will send data to Device 2 via a web-based IO gateway, serving as an intermediary for receiving and transmitting data.</p>
+    </td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/7b48bd7f-8fec-4364-ae98-fe778d622580" style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ddd;"/>
+      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">
+Here is Device 2, which receives data from Device 1 after the data has been filtered through the IO gateway, acting as an intermediary.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; vertical-align: middle; padding: 10px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/5a09c87b-39b7-4f19-83a3-5c47fefe37cd" style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd;"/>
+      <p style="margin: 10px 0; font-size: 16px; font-weight: bold;">This project simulates the operation of an IoT website system that has been developed. In this project, Device 1 and Device 2 are microcontrollers or ESP8266 boards. When the data sent to the website is correct and complete, both devices will display their operation through LEDs connected to the boards. This serves as confirmation that the system can communicate and transmit data accurately over long distances between devices if the data received by the website is correct</p>
+    </td>
+  </tr>
+</table>
+
+<h2>💻 Information</h2>
+<h3>System structure</h3>
+<p>devices will be able to send and receive data from each other.</p>
+<ul>
+  <!-- List items go here -->
+</ul>
+
+
 
 
 
