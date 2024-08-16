@@ -89,7 +89,7 @@ Here is Device 2, which receives data from Device 1 after the data has been filt
 
 <h2>💻 Information</h2>
 <h3>System structure</h3>
-<p>devices will be able to send and receive data from each other.</p>
+<p></p>
 <ul>
   <!-- List items go here -->
 </ul>
